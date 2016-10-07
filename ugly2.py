@@ -2,13 +2,6 @@
 
 # Fix me!
 
-# check age is number
-# dont repeat, functions
-# better names
-# test
-# functions:
-# a) get name and age  b) get marks  c) calc average   d) store (or print) results  e) Read results
-
 #######student 1####################
 
 # Read user name
